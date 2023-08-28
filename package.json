@@ -9,6 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@clerk/clerk-expo": "0.18.0",
+    "@clerk/clerk-js": "4.56.0-staging.8538cd0",
     "expo": "~49.0.8",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
